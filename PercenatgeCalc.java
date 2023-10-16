@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//calculator for
+//calculator for CBSE students to calculate their percentage in borad exams!!
 
 
 public class Main {
@@ -36,6 +36,6 @@ public class Main {
 
         double percentage = (sum/total)*100;
 
-        System.out.println(name + "your percenatge in CBSE board exams is " + percentage + "%");
+        System.out.println(name + "your percentage in CBSE board exams is " + percentage + "%");
     }
 }
