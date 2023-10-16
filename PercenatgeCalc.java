@@ -12,7 +12,7 @@ public class Main {
         System.out.println("PLease enter your age below");
         int age = S.nextInt();
 
-        System.out.println("Your name is " + name + " and your age is " + age + " it is all saved inside our server now have a happy calculatinf");
+        System.out.println("Your name is " + name + " and your age is " + age + " it is all saved inside our server now have a happy calculating");
 
         System.out.print("Please enter your marks in maths : ");
         byte maths = S.nextByte();
