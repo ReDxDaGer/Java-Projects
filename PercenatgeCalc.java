@@ -3,7 +3,7 @@ import java.util.Scanner;
 //calculator for CBSE students to calculate their percentage in borad exams!!
 
 
-public class Main {
+public class PercenatgeCalc {
     public static void main(String[] args) {
         Scanner S = new Scanner(System.in);
         System.out.println("Please enter your name below");
