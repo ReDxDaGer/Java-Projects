@@ -19,5 +19,17 @@ public class pattern{
             }
             System.out.println();
         }
+        // Hollow rectangle
+        for (int c= 1;c<=n;c++){
+            for (int d = 1;d<=m;d++){
+                if(c==1||d==1||c==n||d==m){
+                    System.out.print("*");
+                }
+                else{
+                    System.out.print(" ");
+                }
+            }
+            System.out.println();
+        }
     }
 }
