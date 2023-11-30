@@ -31,5 +31,13 @@ public class pattern{
             }
             System.out.println();
         }
+        //reverse loop of no.s
+        int n2 = 5;
+        for(int i = 1;i<=n;i++){
+            for(int j = 1;j<=n2-i+1;j++){
+                System.out.print(j);
+            }
+            System.out.println();
+        }
     }
 }
